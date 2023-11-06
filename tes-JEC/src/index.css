@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-tes{
+  font-family: sans-serif;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.6000000238418579px;
+  text-align: left;
+}
+
+.text-test{
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.bg-warning-blue{
+  background-color: rgba(33, 155, 178, 0.25);
+}
